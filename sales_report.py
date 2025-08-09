@@ -11,7 +11,7 @@ Outputs:
     - Excel file with separate sheets for each summary
 Handles invalid/missing rows gracefully.
 """
-pip install pandas openpyxl
+
 
 import pandas as pd
 from pathlib import Path
